@@ -1,27 +1,28 @@
-# Мои Tableau Дашборды
+# My Tableau Dashboards
 
-Добро пожаловать в мой репозиторий с дашбордами, где вы можете взглянуть на интересные данные и визуализации. Эти дашборды созданы с использованием Tableau.
+Welcome to my repository of dashboards, where you can explore interesting data and visualizations. These dashboards are created using Tableau.
 
-## Обзор дашбордов
+## Dashboard Overview
 
-#### Washington dashboard
+#### Washington Dashboard
 
-![Скриншот дашборда Washington_dashboard](Washington_dashboard.png)
+![Screenshot of Washington Dashboard](Washington_dashboard.png)
 
-#### House_Data dashboard
+#### House Data Dashboard
 
-![Скриншот дашборда HouseData](House_Data_dashboard.png)
+![Screenshot of House Data Dashboard](House_Data_dashboard.png)
 
-## Ссылки на дашборды
+## Dashboard Links
 
-[Washington_dashboard](https://public.tableau.com/views/WashingtonDashboard_17024492199060/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) |
-[HouseData](https://public.tableau.com/views/HouseDataBlack-Blue/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Washington Dashboard](https://public.tableau.com/views/WashingtonDashboard_17024492199060/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) |
+[House Data Dashboard](https://public.tableau.com/views/HouseDataBlack-Blue/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-## Как использовать
+## How to Use
 
-1. 🌐 Откройте дашборд по ссылке выше.
-2. 🧐 Исследуйте различные вкладки и интерактивные элементы.
-3. 📊 Получите уникальные инсайты из предоставленных данных).
+1. 🌐 Open the dashboard using the links above.
+2. 🧐 Explore various tabs and interactive elements.
+3. 📊 Gain unique insights from the provided data.
 
+Thank you for visiting! 🚀
 
-Спасибо за посещение! 🚀
+Tableau Public (https://public.tableau.com/views/WashingtonDashboard_17024492199060/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)

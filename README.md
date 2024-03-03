@@ -4,7 +4,12 @@
 
 ## Обзор дашбордов
 
+#### Washington dashboard
+
 ![Скриншот дашборда Washington_dashboard](Washington_dashboard.png)
+
+#### House_Data dashboard
+
 ![Скриншот дашборда HouseData](House_Data_dashboard.png)
 
 ## Ссылки на дашборды
